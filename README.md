@@ -2,6 +2,8 @@
   Plaza Vea Smartphones information: Web Scraping project
 </h1>
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCarlosHIngeGeek%2FPlazaVeaScraping&countColor=%232ccce4)
+<br></br>
 Certain projects demand not only the use of one library but also in some cases the joint use of two or more.
 In this project we use this approach with a supermarket web.
 
